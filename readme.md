@@ -18,6 +18,7 @@ To install the dependence is easy, you only need follow the steep on the <b>offi
 ## GETSTATED
 
 - **Clone the repository**
+    Open the prompt, terminal or PowerShell and copy/paste the next code/command   
 > git clone https://github.com/Edgar3g/PrintingAutomation
 - **install pywin32** <br>
     Open the corrent folder into prompt, Terminal or Powershell and execute 
