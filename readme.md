@@ -7,10 +7,10 @@ This is a script for printing automation using Python, and it was made to get yo
 
 ## How to use ?
 
-The first thing do you need to use it, is install the dependences
+The first thing do you need to use it, is install the dependency
 > <b>python 3</b> and <b>pywin32</b>
 
-To install the dependence is easy, you only need follow the steep on the <b>offical doc</b> basead on your operational system link:
+To install the dependency is easy, you only need follow the steep on the <b>offical doc</b> basead at on your operational system link:
 
 > [Python](https://www.python.org/downloads/)
 
@@ -27,6 +27,25 @@ To install the dependence is easy, you only need follow the steep on the <b>offi
 - **Run the code...**
 > python main.py
 
+When you run the code you will see the following
 
+![](img/welcomeANDchoose.png)
 
+**It will show you a welcome screen, then will ask you to choose/select a printer**
+*to select, just enter the number of printer position*   
 
+the next is
+![](img/printerName.png)
+
+When you select the printer, you just need to **paste/put**  the path to the folder that contains the files to be *printed*
+
+example: <br/>
+
+> C:\Users\Dikenge\Desktop\docs
+
+## well Done ✌😉🐱‍👤
+
+#### Do you like it ? follow me :)
+
+#### Do you want to contribute ?
+Feel Free, fork the project and **go to the sky ;)**  
