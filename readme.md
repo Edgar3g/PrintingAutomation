@@ -7,7 +7,7 @@ This is a script for printing automation using Python, and it was made to get yo
 
 ## How to use ?
 
-The first thing do you need to use it, is install the dependenes
+The first thing do you need to use it, is install the dependences
 > <b>python 3</b> and <b>pywin32</b>
 
 To install the dependence is easy, you only need follow the steep on the <b>offical doc</b> basead on your operational system link:
@@ -18,9 +18,9 @@ To install the dependence is easy, you only need follow the steep on the <b>offi
 ## GETSTATED
 
 - **Clone the repository**
-> git clone 
+> git clone https://github.com/Edgar3g/PrintingAutomation
 - **install pywin32** <br>
-    Go to prompt, Terminal or Powershell and execut 
+    Open the corrent folder into prompt, Terminal or Powershell and execute 
 > python -m pip install -r requiriment.txt
 
 - **Run the code...**
